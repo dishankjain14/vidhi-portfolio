@@ -145,7 +145,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #F1F12E; /* Yellow highlight */
+    border-bottom: 10px solid #b3e600; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 40%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -243,7 +243,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #F1F12E; /* Yellow highlight */
+    border-bottom: 10px solid #b3e600; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 36%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -258,7 +258,7 @@ body {
 }
 
 .education-item span{
-    color: #d3e97a;
+    color: #b3e600;
 }
 
 
@@ -290,7 +290,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #F1F12E; /* Yellow highlight */
+    border-bottom: 10px solid #b3e600; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 36%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -349,7 +349,7 @@ body {
 }
 
 .project-content button {
-    background-color: #ccff33;
+    background-color: #b3e600;
     color: #000;
     border: none;
     padding: 10px 20px;
@@ -397,7 +397,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #F1F12E; /* Yellow highlight */
+    border-bottom: 10px solid #b3e600; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 36%; /* Allocate space for the heading on the left */
     text-align: right;
