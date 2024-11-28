@@ -145,7 +145,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #b3e600; /* Yellow highlight */
+    border-bottom: 10px solid #d3e97a; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 40%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -243,7 +243,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #b3e600; /* Yellow highlight */
+    border-bottom: 10px solid #d3e97a; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 36%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -258,7 +258,7 @@ body {
 }
 
 .education-item span{
-    color: #b3e600;
+    color: #d3e97a;
 }
 
 
@@ -290,7 +290,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #b3e600; /* Yellow highlight */
+    border-bottom: 10px solid #d3e97a; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 36%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -349,7 +349,7 @@ body {
 }
 
 .project-content button {
-    background-color: #b3e600;
+    background-color: #d3e97a;
     color: #000;
     border: none;
     padding: 10px 20px;
@@ -397,7 +397,7 @@ body {
     margin-bottom: 30px;
     text-transform: uppercase;
     display: inline-block;
-    border-bottom: 10px solid #b3e600; /* Yellow highlight */
+    border-bottom: 10px solid #d3e97a; /* Yellow highlight */
     padding-bottom: 5px;
     flex-basis: 36%; /* Allocate space for the heading on the left */
     text-align: right;
@@ -416,7 +416,7 @@ body {
 .experience-description h3 {
     font-size: 24px;
     font-weight: bold;
-    color: #b3e600;
+    color: #d3e97a;
     margin-bottom: 10px;
 }
 
@@ -443,7 +443,7 @@ body {
 }
 
 .experience-scroller::-webkit-scrollbar-thumb {
-    background: #b3e600;
+    background: #d3e97a;
     border-radius: 5px;
 }
 
@@ -577,7 +577,7 @@ body {
 }
 
 .contact-right button:hover {
-    background-color: #a6cc28;
+    background-color: #d3e97a;
 }
 
 
