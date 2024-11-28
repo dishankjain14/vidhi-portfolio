@@ -310,7 +310,7 @@ body {
 
 /* Project Card */
 .project-item {
-    background-color: #1a1a1a;
+    background-color: #ffffff;
     border-radius: 15px;
     overflow: hidden;
     display: flex;
@@ -338,12 +338,12 @@ body {
     font-size: 20px;
     margin-bottom: 10px;
     font-weight: bold;
-    color: #fff;
+    color: #000000;
 }
 
 .project-content p {
     font-size: 14px;
-    color: #aaa;
+    color: #373434;
     margin-bottom: 20px;
     line-height: 1.5;
 }
