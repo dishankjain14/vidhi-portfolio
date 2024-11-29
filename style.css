@@ -133,7 +133,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
     background-color: #000; /* Black background */
     color: white;
     font-family: 'Arial', sans-serif;
@@ -186,7 +189,7 @@ body {
 .tools-section {
     background-color: #000;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 0px;
     justify-items: center;
     margin-bottom: 0px;
     padding-bottom: 50px;
@@ -198,7 +201,8 @@ body {
 .tools-section h3 {
     
     max-width: 100%;
-    font-size: 24px;
+    font-size: 18px;
+    font-weight: bold;
     margin-bottom: 20px;
     color: #d3e97a;
     padding: 15px 100px;
@@ -378,7 +382,9 @@ body {
 
 /* Experience Section */
 .experience-section {
-    padding: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
     background-color: #000;
     color: #fff;
     font-family: Arial, sans-serif;
@@ -418,10 +424,12 @@ body {
 }
 
 .experience-description h3 {
+    padding-top: 70px;
     font-size: 24px;
     font-weight: bold;
     color: #d3e97a;
     margin-bottom: 10px;
+   
 }
 
 .experience-description p {
